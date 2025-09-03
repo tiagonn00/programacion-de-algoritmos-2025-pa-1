@@ -8,7 +8,8 @@ public class EjemploScanner_01 {
         String nombre = scanner.nextLine();
 
         System.out.print("¿Cuántos años tenes? ");
-        int edad = scanner.nextInt();
+        int edad = scann
+    er.nextInt();
         scanner.nextLine(); // Limpia el buffer
 
         System.out.print("¿Cuál es tu altura? ");

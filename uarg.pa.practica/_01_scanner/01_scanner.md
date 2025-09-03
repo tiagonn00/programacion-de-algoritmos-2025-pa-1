@@ -74,4 +74,3 @@ if (scanner.hasNextInt()) {
 Cuando termines de usar `Scanner`, ciérralo para liberar recursos:
 ```java
 scanner.close();
-```
